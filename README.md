@@ -18,6 +18,20 @@ Simulated hosts include:
 
 ## Recent changes:
 
+### 2021-10-11
+Commits on Oct 11, 2021
+Merge pull request #75 from higaski/python39_array_fix …
+
+@jamesbowman
+jamesbowman committed on 11 Oct
+  
+Fix array.tostring for Python 3.9
+
+Vincent Hamp
+Vincent Hamp committed on 11 Oct
+
+https://github.com/jamesbowman/swapforth
+
 ### 2015-09-26
 
  * Both Python 2.x and 3.x are supported
